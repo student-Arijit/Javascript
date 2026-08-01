@@ -1,4 +1,4 @@
-
+//Find the length of a linked list (iterative).
 
 class Node {
     constructor(value) {
